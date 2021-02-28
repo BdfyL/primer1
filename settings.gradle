@@ -1,2 +1,3 @@
+include ':primer1_vetka1'
 include ':app'
 rootProject.name = "primer1"
